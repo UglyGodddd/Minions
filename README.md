@@ -1,6 +1,6 @@
 ##Это сайт для настоящего миньона
 Вступай в наши ряды
-![](image-1.png)
+![](https://github.com/UglyGodddd/Minions/blob/main/image.png)
 
 Если вас заинтересовала наше предложение обращайтесь 
 по почте: brolol19@gmail.com
