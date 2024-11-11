@@ -3,7 +3,7 @@
 
 
 
-![](https://github.com/UglyGodddd/Minions/blob/main/image.png)
+![](image.png)
 
 
 
